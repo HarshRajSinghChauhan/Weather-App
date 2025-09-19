@@ -1,0 +1,11 @@
+.searchBox form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   
+}
+
+#searchBtn{
+    margin: 5rem;
+}
